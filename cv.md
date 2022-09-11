@@ -1,4 +1,4 @@
-## Viktor Shchokin, Fron-End developer
+# Viktor Shchokin
 
 ---
 
