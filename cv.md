@@ -77,3 +77,12 @@ Set up basic routing with React JS, adding Code Splitting to improve performance
 I used Context to pass data between components, in the future I plan to transfer all state management and business logic to Redux.
 
 ---
+
+## Languages
+
+- English ( Intermediate )
+
+  - I have been studying for 5 years. Passed the university entrance exam with 181 points out of 200 possible. At university, I studied technical terminology in English. During the Front-End courses, I communicated both with fellow students and with mentors from this field in English.
+
+- Ukrainain ( Native )
+- Russian ( Native )
