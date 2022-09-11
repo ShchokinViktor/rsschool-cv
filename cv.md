@@ -59,3 +59,21 @@ I am a young and fast learning Front-End Developer. Ever since my school years, 
 - Gained a lot of experience in conversational English, developed my conversational skills to a confident intermediate level.
 
 ---
+
+## Experince
+
+### [Project: Redux-Burger](https://github.com/ShchokinViktor/redux-burger)
+
+Redux Burger is a burger delivery web application written in React JS with Redux as the global state manager.
+I used the mocAPI service as an API, where I later fetched requests, keeping all the business logic in Redux using the Redux toolkit, including the Redux Async Thunk.
+Implemented TypeScript, carried out basic typing of components, as well as all Redux logic.
+For styling, I used styles written from scratch using SCSS modules.
+
+### [Project: React-Pokemon](https://github.com/ShchokinViktor/react-pokemon)
+
+React-Pokemon is a Pokemon-themed web application written in React JS, where the design was developed by me in Figma.
+In the project itself, I used a component approach to development based on the BEM methodology, and the styling was written from scratch using the SASS preprocessor and mobile-first approach.
+Set up basic routing with React JS, adding Code Splitting to improve performance.
+I used Context to pass data between components, in the future I plan to transfer all state management and business logic to Redux.
+
+---
