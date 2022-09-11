@@ -1,7 +1,3 @@
-# rsschool-cv
-
----
-
 ## Viktor Shchokin, Fron-End developer
 
 ---
