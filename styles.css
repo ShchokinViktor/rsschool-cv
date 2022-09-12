@@ -163,6 +163,14 @@ img {
   padding-left: 35px;
 }
 
-.cv-body__list-item {
-  
+.cv-section__subsection {
+  margin-bottom: 15px;
+}
+
+.cv-section__subsection:last-child {
+  margin-bottom: 0;
+}
+
+.cv-section__link {
+  color: var(--main-black-color);
 }
