@@ -103,7 +103,7 @@ img {
 }
 
 .sidebar {
-  width: 25%;
+  width: 35%;
   border-right: 2px solid var(--main-black-color);
   padding-right: 30px;
 }
@@ -160,7 +160,7 @@ img {
 
 .cv-body {
   width: 85%;
-  padding-left: 35px;
+  padding-left: 50px;
 }
 
 .cv-section__subsection {
