@@ -64,7 +64,7 @@ img {
 .header__title {
   font-weight: 600;
   font-size: 84px;
-  margin-bottom: 14px;
+  margin-bottom: 5px;
 }
 
 .header__subtitle {
@@ -92,6 +92,6 @@ img {
 
 .header__contacts-link {
   font-weight: 600;
-  font-size: 24px;
+  font-size: 20px;
   color: #3d4955;
 }
