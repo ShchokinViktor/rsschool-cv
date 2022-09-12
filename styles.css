@@ -1,3 +1,8 @@
+html {
+  --main-black-color: #3d4955;
+  --main-blue-color: #5f6fff;
+}
+
 *,
 *::before,
 *::after {
@@ -6,6 +11,7 @@
 
 .body {
   font-size: 16px;
+  color: var(--main-black-color);
 }
 
 h1,
@@ -38,7 +44,7 @@ img {
 
 .header {
   padding: 15px 0;
-  border-bottom: 10px solid #3d4955;
+  border-bottom: 10px solid var(--main-black-color);
 }
 
 .header__inner {
@@ -49,26 +55,21 @@ img {
 .header__img-holder {
   max-width: 300px;
   height: 300px;
-  border-color: #3d4955;
   border-radius: 50%;
   overflow: hidden;
   margin-right: 150px;
 }
 
-.header__info-holder {
-}
-
 .header__title {
   font-weight: 600;
   font-size: 84px;
-  color: #3d4955;
   margin-bottom: 14px;
 }
 
 .header__subtitle {
   font-weight: 600;
   font-size: 54px;
-  color: #5f6fff;
+  color: var(--main-blue-color);
   margin-bottom: 20px;
 }
 
