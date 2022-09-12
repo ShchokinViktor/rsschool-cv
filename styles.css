@@ -99,7 +99,9 @@ img {
 /*MAIN*/
 
 .main {
+  display: flex;
 }
+
 .sidebar {
   width: 25%;
   border-right: 2px solid var(--main-black-color);
@@ -108,11 +110,13 @@ img {
 
 .sidebar__list-item {
   font-weight: 600;
+  margin-bottom: 12px;
 }
 
 .cv-section {
   padding-top: 25px;
 }
+
 .cv-section__title {
   font-weight: 600;
   font-size: 24px;
@@ -132,9 +136,33 @@ img {
 
 .cv-section__list-item {
   list-style: circle;
-  margin-bottom: 12px;
 }
 
 .cv-section__list-item:last-child {
   margin-bottom: 0;
+}
+
+.cv-section__row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.cv-section__date {
+  display: flex;
+  align-items: center;
+}
+
+.cv-section__date-icon {
+  padding-right: 8px;
+  width: 25px;
+}
+
+.cv-body {
+  width: 85%;
+  padding-left: 35px;
+}
+
+.cv-body__list-item {
+  
 }
